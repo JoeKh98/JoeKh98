@@ -1,16 +1,17 @@
 - 👋 Hi, I’m @JoeKh98
 - 👀 I’m interested in 
 
-[Gameplay Development] 
+
+[Gameplay Programming/Development] 
 [3D moddeling] 
 [Environment Art]
+[C++]
 
 - 🌱 I’m currently learning 
 
 [C++] - 2 years
-[Unreal Engine 4] - 8 months
-[OpenGL] - 2 months
-[3D Moddeling] - 1 year
+[Unreal Engine 4] - 1 year
+[3D Moddeling] - 2 years
 
 
 - 💞️ I’m looking to collaborate with people with similar interests.
